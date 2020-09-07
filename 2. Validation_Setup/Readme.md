@@ -1,5 +1,5 @@
 
-## [Model Validation Samples](https://github.com/Nickel-nc/GU_Sport_DS/tree/master/....)
+## [Model Validation Samples](https://github.com/Nickel-nc/GU_Sport_DS/blob/master/2.%20Validation_Setup/2.%20Model_Validation_Samples.ipynb)
 
 #### Contents:
 
