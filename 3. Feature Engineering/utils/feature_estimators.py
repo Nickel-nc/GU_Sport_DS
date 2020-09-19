@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.metrics import roc_auc_score
+from tqdm import tqdm
 
 
 def calculate_feature_separating_ability(
