@@ -1,12 +1,16 @@
 <a href="https://www.kaggle.com/c/geekbrains-competitive-data-analysis"><img src="figures/title.PNG" alt="GB inclass competition title" width="800"/></a>
 
 # Репозиторий посвящен треку: спортивный анализ данных Платформа Kaggle (Geek University)
-[Соревнование: GeekBrains Competitive Data Analysis](https://www.kaggle.com/c/geekbrains-competitive-data-analysis)
+[GeekBrains Competitive Data Analysis](https://www.kaggle.com/c/geekbrains-competitive-data-analysis)
+
+---
+### Inclass notebook will be uploaded after end of course (6-oct)...........
+
 
 --- 
-## Содержание
+### Практическая часть
 
-### Практика модули с тематическими заданиями**
+## Содержание
 
 #### [1. Raw_Data_EDA](https://github.com/Nickel-nc/GU_Sport_DS/tree/master/1.%20Raw_Data_EDA)
 - Explanatory Data Analysis samples.
@@ -23,6 +27,4 @@
 ### [Class_Notebooks]()
 - **Блокноты из вебинаров** с бейзлайнами, описанием технологий, стратегий, подходов к решению
 
----
-### Решение Kaggle соревнования(будет выложено после завершения потока)
-...........
+
