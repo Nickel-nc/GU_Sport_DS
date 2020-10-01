@@ -3,13 +3,18 @@
 # Репозиторий посвящен треку: спортивный анализ данных Платформа Kaggle (Geek University)
 [GeekBrains Competitive Data Analysis](https://www.kaggle.com/c/geekbrains-competitive-data-analysis)
 
+## Содержание:
+- Исходники с решением
+- Практическая часть
+
 ---
-### Inclass notebook will be uploaded after end of course (6-oct)...........
+### Исходники с решением
+#### Inclass notebook will be uploaded after end of course (6-oct)...........
 
 
 --- 
-## Практическая часть
-### Содержание
+### Практическая часть
+
 
 #### [1. Raw_Data_EDA](https://github.com/Nickel-nc/GU_Sport_DS/tree/master/1.%20Raw_Data_EDA)
 - Explanatory Data Analysis samples.
