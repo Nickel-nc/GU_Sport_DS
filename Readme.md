@@ -8,9 +8,8 @@
 
 
 --- 
-### Практическая часть
-
-## Содержание
+## Практическая часть
+### Содержание
 
 #### [1. Raw_Data_EDA](https://github.com/Nickel-nc/GU_Sport_DS/tree/master/1.%20Raw_Data_EDA)
 - Explanatory Data Analysis samples.
