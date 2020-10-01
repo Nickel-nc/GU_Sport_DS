@@ -1,5 +1,4 @@
-<img src="figures/title.PNG" alt="GB inclass competition title" width="800"/>
-[![GB inclass competition title:](https://github.com/Nickel-nc/GU_Sport_DS/blob/master/figures/title.PNG)](https://www.kaggle.com/c/geekbrains-competitive-data-analysis)
+<a href="https://www.kaggle.com/c/geekbrains-competitive-data-analysis"><img src="figures/title.PNG" alt="GB inclass competition title" width="800"/></a>
 
 # Репозиторий посвящен треку: спортивный анализ данных Платформа Kaggle (Geek University)
 [Соревнование: GeekBrains Competitive Data Analysis](https://www.kaggle.com/c/geekbrains-competitive-data-analysis)
