@@ -1,3 +1,5 @@
+<img src="figures/title.PNG" alt="GB inclass competition title" width="800"/>
+
 # Репозиторий посвящен треку: спортивный анализ данных Платформа Kaggle (Geek University)
 [Соревнование: GeekBrains Competitive Data Analysis](https://www.kaggle.com/c/geekbrains-competitive-data-analysis)
 
