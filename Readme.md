@@ -1,4 +1,4 @@
-<a href="https://www.kaggle.com/c/geekbrains-competitive-data-analysis"><img src="figures/title.png" alt="GB inclass competition title" width="1200"/></a>
+<a href="https://www.kaggle.com/c/geekbrains-competitive-data-analysis"><img src="figures/title.PNG" alt="GB inclass competition title" width="1200"/></a>
 
 # Репозиторий посвящен треку: спортивный анализ данных Платформа Kaggle (Geek University)
 [GeekBrains Competitive Data Analysis](https://www.kaggle.com/c/geekbrains-competitive-data-analysis)
@@ -12,7 +12,7 @@
 #### Inclass notebook will be uploaded after end of course (6-oct)...........
 
 ### Data flow scheme
-<img src="figures/pipline.PNG" alt="GB inclass competition title" width="800"/>
+<img src="figures/pipeline.png" alt="Data flow pipeline" width="800"/>
 
 
 --- 
