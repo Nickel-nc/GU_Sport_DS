@@ -11,6 +11,9 @@
 ### Исходники с решением
 #### Inclass notebook will be uploaded after end of course (6-oct)...........
 
+### Data flow scheme
+<img src="figures/pipline.PNG" alt="GB inclass competition title" width="800"/>
+
 
 --- 
 ### Практическая часть
